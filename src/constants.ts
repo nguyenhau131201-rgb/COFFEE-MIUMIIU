@@ -42,9 +42,6 @@ export const MENU_ITEMS: MenuItem[] = [
   { id: 'j2', category: 'NƯỚC ÉP / FRESH JUICES', nameVi: 'Nước ép ổi', nameEn: 'Guava Juice', price: 25000 },
   { id: 'j3', category: 'NƯỚC ÉP / FRESH JUICES', nameVi: 'Nước ép táo mix ổi', nameEn: 'Apple & Guava Juice', price: 25000 },
   { id: 'j4', category: 'NƯỚC ÉP / FRESH JUICES', nameVi: 'Nước cam', nameEn: 'Orange Juice', price: 20000 },
-  { id: 'j5', category: 'NƯỚC ÉP / FRESH JUICES', nameVi: 'Nước chanh', nameEn: 'Lemonade', price: 15000 },
-  { id: 'j6', category: 'NƯỚC ÉP / FRESH JUICES', nameVi: 'Dừa', nameEn: 'Coconut', price: 25000 },
-  { id: 'j7', category: 'NƯỚC ÉP / FRESH JUICES', nameVi: 'Chanh đá', nameEn: 'Iced Lemonade', price: 15000 },
 
   // SODA
   { id: 'sd1', category: 'SODA', nameVi: 'Soda việt quất', nameEn: 'Blueberry Soda', price: 20000 },
@@ -60,11 +57,13 @@ export const MENU_ITEMS: MenuItem[] = [
   { id: 'o4', category: 'MÓN KHÁC / OTHERS', nameVi: 'Trà đường', nameEn: 'Sugar Tea', price: 15000 },
   { id: 'o5', category: 'MÓN KHÁC / OTHERS', nameVi: 'Ca cao', nameEn: 'Cocoa', price: 20000 },
   { id: 'o6', category: 'MÓN KHÁC / OTHERS', nameVi: 'Trà gừng', nameEn: 'Ginger Tea', price: 20000 },
+  { id: 'o9', category: 'MÓN KHÁC / OTHERS', nameVi: 'Dừa', nameEn: 'Coconut', price: 25000 },
+  { id: 'o10', category: 'MÓN KHÁC / OTHERS', nameVi: 'Chanh đá', nameEn: 'Iced Lemonade', price: 15000 },
 
   // NƯỚC NGỌT / SOFT DRINKS
   { id: 'sd_p', category: 'NƯỚC NGỌT / SOFT DRINKS', nameVi: 'Pepsi', nameEn: 'Pepsi', price: 15000 },
   { id: 'sd_c', category: 'NƯỚC NGỌT / SOFT DRINKS', nameVi: 'Coca', nameEn: 'Coca Cola', price: 15000 },
-  { id: 'sd_247', category: 'NƯỚT NGỌT / SOFT DRINKS', nameVi: '247', nameEn: '247 Energy Drink', price: 15000 },
+  { id: 'sd_247', category: 'NƯỚC NGỌT / SOFT DRINKS', nameVi: '247', nameEn: '247 Energy Drink', price: 15000 },
   { id: 'sd_7up', category: 'NƯỚC NGỌT / SOFT DRINKS', nameVi: '7UP', nameEn: '7UP', price: 15000 },
   { id: 'sd_st', category: 'NƯỚC NGỌT / SOFT DRINKS', nameVi: 'Sting', nameEn: 'Sting Energy Drink', price: 15000 },
   { id: 'sd_ol', category: 'NƯỚC NGỌT / SOFT DRINKS', nameVi: 'Olong', nameEn: 'Oolong Tea', price: 15000 },
